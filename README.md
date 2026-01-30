@@ -34,29 +34,6 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
-# PROJECTE-2-GRUP_4
-Projecte 2 – Grup 4
-
-## Projecte DAM2M – Nothingan Pri S.A
-
-### Descripció
-Projecte desenvolupat en Java amb Apache NetBeans com a part del cicle formatiu DAM2M.
-
-### Eines i tecnologies utilitzades
-- Java
-- Apache NetBeans
-- Git
-- GitLab
-- GitHub
-
-### Codi font del projecte
-El codi font del projecte es troba en un repositori privat de GitLab,
-a la branca principal `main`:
-
-👉 https://gitlab.com/projecte2_grup4/projecte2_grup4
-
-### Autors
-- Eric Delgado, Javier , Joel
 
 <h3 align="left">👤 Contáctame</h3>
 
