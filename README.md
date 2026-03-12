@@ -29,6 +29,7 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 ![Google](https://img.shields.io/badge/google-000000?&logo=google&logoColor=4285F4)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?&logo=virtualbox&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=androidstudio&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?&logo=jetpackcompose&logoColor=white)
 
 <h3 align="left">📊 Bases de Datos</h3>
 
