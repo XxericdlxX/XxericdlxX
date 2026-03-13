@@ -52,7 +52,6 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=white)
 
 ---
 
