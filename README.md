@@ -25,20 +25,24 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 
 ---
 
-<h3 align="left">⚙️ Tecnologías</h3>
+<h3 align="left">🛠️ Entornos de Desarrollo</h3>
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=androidstudio&logoColor=3DDC84)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellijidea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apachenetbeanside&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+<h3 align="left">⚙️ Tecnologías y Herramientas</h3>
 
 ![Unity](https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=white)
 ![Google](https://img.shields.io/badge/google-000000?&logo=google&logoColor=4285F4)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?&logo=virtualbox&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=androidstudio&logoColor=3DDC84)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?&logo=jetpackcompose&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellijidea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apachenetbeanside&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-000)
-![Coil](https://img.shields.io/badge/-Coil-000)
 ![Navigation Compose](https://img.shields.io/badge/-Navigation%20Compose-000)
 ![JUnit](https://img.shields.io/badge/-JUnit-000?&logo=junit5&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=api&logoColor=white)
@@ -66,9 +70,11 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 <a href="mailto:ericdelgadolope08@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/eric-delgado-lópez" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://discord.com/users/xxericdlxx" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
