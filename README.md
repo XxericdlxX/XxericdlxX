@@ -1,20 +1,29 @@
-<h2 align="left">Hola 👋, Soy Eric</h2>
+<h1 align="center">Eric Delgado López</h1>
+
+<h3 align="center">Desarrollo de Aplicaciones Multiplataforma · Backend · Aprendizaje continuo</h3>
 
 <p align="left">
-🎓 Soy Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en el Instituto Nicolau Copèrnic de Terrassa.
-Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y el aprendizaje continuo.
+🎓 Actualmente soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en el Institut Nicolau Copèrnic de Terrassa.<br><br>
+Me encuentro en constante formación, ampliando mis conocimientos en programación, desarrollo backend y aplicaciones multiplataforma a través de proyectos y aprendizaje continuo.<br><br>
+Me interesa desarrollar software funcional, bien estructurado y orientado a resolver problemas reales, mientras sigo creciendo tanto a nivel técnico como profesional.
 </p>
 
-<h3 align="left">🧑‍💻 Lenguajes</h3>
+---
+
+<h3 align="left">🧑‍💻 Lenguajes de Programación</h3>
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=purple)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin&logoColor=7F52FF)
+
+---
+
+<h3 align="left">📝 Lenguajes de Marcas y Estilos</h3>
+
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 ---
 
@@ -34,23 +43,33 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 
 ---
 
-<h3 align="left">⚙️ Tecnologías y Herramientas</h3>
+<h3 align="left">⚙️ Tecnologías</h3>
 
-![Unity](https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=white)
-![Google](https://img.shields.io/badge/google-000000?&logo=google&logoColor=4285F4)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?&logo=virtualbox&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot&logoColor=6DB33F)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-000?&logo=thymeleaf&logoColor=005F0F)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?&logo=jetpackcompose&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-000)
+![Coil](https://img.shields.io/badge/-Coil-000)
 ![Navigation Compose](https://img.shields.io/badge/-Navigation%20Compose-000)
 ![JUnit](https://img.shields.io/badge/-JUnit-000?&logo=junit5&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=api&logoColor=white)
-![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle)
 
 ---
 
-<h3 align="left">📊 Bases de Datos</h3>
+<h3 align="left">🧰 Herramientas</h3>
+
+![Git](https://img.shields.io/badge/Git-000000?&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&logoColor=0052CC)
+![Unity](https://img.shields.io/badge/Unity-000000?&logo=unity&logoColor=white)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-000?&logo=googledrive&logoColor=34A853)
+![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-000?&logo=googleworkspace&logoColor=4285F4)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?&logo=virtualbox&logoColor=white)
+
+---
+
+<h3 align="left">🗄️ Bases de Datos</h3>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
@@ -65,7 +84,7 @@ Soy entusiasta por la tecnología, el desarrollo de soluciones multiplataforma y
 
 ---
 
-<h3 align="left">👤 Contáctame</h3>
+<h3 align="left">👤 Contacto</h3>
 
 <a href="mailto:ericdelgadolope08@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
